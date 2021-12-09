@@ -1,1 +1,1 @@
-# devops-netologyNew line
+# devops-netology
