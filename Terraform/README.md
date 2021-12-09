@@ -7,7 +7,7 @@
 Игнорировать данные паролей, приватных ключей и других секретов  файлы с расширением .tfvars
 
 Игнорировать файлы, предназначенные для локального переназначения override.tf override.tf.json и файлы заканчивающиеся на
- _override.tf  _override.tf.json 
+ _override.tf  _override.tf.json.
  
  Игнорировать конфигурационные файлы клиента .terraformrc и terraform.rc
  
